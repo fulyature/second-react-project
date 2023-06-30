@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/second-react-project/static/css/main.ac9fa37c.css",
+    "main.js": "/second-react-project/static/js/main.3d686422.js",
+    "static/media/spring.webp": "/second-react-project/static/media/spring.7964752a024149051adb.webp",
+    "index.html": "/second-react-project/index.html",
+    "main.ac9fa37c.css.map": "/second-react-project/static/css/main.ac9fa37c.css.map",
+    "main.3d686422.js.map": "/second-react-project/static/js/main.3d686422.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac9fa37c.css",
+    "static/js/main.3d686422.js"
+  ]
+}
